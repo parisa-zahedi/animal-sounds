@@ -1,3 +1,5 @@
+[![DOI](https://sandbox.zenodo.org/badge/416693646.svg)](https://handle.stage.datacite.org/10.5072/zenodo.193331)
+
 # animal-sounds
 
 <!-- Include Github badges here (optional) -->
